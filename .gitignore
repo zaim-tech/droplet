@@ -4,7 +4,6 @@ venv
 myenv
 myvenv
 .myvenv
-pycache/
+__pycache__/
 *.pyc
-.env
 instance/
